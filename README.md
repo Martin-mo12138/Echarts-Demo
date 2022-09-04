@@ -26,7 +26,7 @@
 
 
 ## 项目展示
-- 展示地址：https://nichan-13.github.io/Echarts-Demo/  
+
 
 ![echarts.png](https://z4a.net/images/2020/06/29/echarts.png)
 
